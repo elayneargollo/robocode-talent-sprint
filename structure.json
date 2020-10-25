@@ -1,7 +1,7 @@
 {
     "name": "WarRobot2020",
     "tag": "elayne",
-    "pilot": "Elayne Nat·lia de Oliveira Argollo",
-    "mainFile": "src/main/java/elayne/WarRobot.java",
-    "supportFiles": ["pom.xml"]
+    "pilot": "Elayne Nat√°lia de Oliveira Argollo",
+    "mainFile": "WarRobot.java",
+    "supportFiles": ["WarRobot.Class"]
 }
